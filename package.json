@@ -1,0 +1,24 @@
+{
+  "name": "goodnight",
+  "version": "1.0.0",
+  "description": "晚安玛卡巴卡 晚安唔西迪西 晚安小点点 晚安汤姆布利伯 晚安哈呼呼 晚安叮叮车 晚安飞飞鱼 晚安小朋友们 等一下 还有人没去睡觉哦 是谁还没有去睡觉呢 是依古比古还没睡 好了依古比古 现在该去睡觉了",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MlightShadow/goodnight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MlightShadow/goodnight/issues"
+  },
+  "homepage": "https://github.com/MlightShadow/goodnight#readme",
+  "dependencies": {
+    "@types/node": "^16.11.26",
+    "freemarker.js": "^1.4.0"
+  }
+}
