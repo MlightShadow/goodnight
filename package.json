@@ -19,6 +19,7 @@
   "homepage": "https://github.com/MlightShadow/goodnight#readme",
   "dependencies": {
     "@types/node": "^16.11.26",
-    "freemarker.js": "^1.4.0"
+    "freemarker.js": "^1.4.0",
+    "js-yaml": "^4.1.0"
   }
 }
